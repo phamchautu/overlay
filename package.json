@@ -1,0 +1,7 @@
+{
+  "name": "overlay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tupc",
+  "license": "MIT"
+}
